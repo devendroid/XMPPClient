@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_32e1cf2aa20b794a5243049c4b2ab4933a61f7c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_c6b2aa2852a855985fba6756ce5b80432bde89d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="028be31081ccaa1633175a75cb809db24942cad7">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b9b14c4f3f12290e90451718d466e9cc1f88e8a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.4/abe52f8b9e66bd65339106298636c7888f63762e/smack-tcp-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="abe52f8b9e66bd65339106298636c7888f63762e">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-tcp-4.1.4_634b4894b1a6d061bfd9723d3dbd6839a70cf854/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="977401bc2e263267dbbde283ea372d31ae40cb35">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_993f98659a858c9c0129fe48aad061b26f8bea6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.4/839677d4ffef71b3a83cd3b9f18586cddf1c0b69/smack-android-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="839677d4ffef71b3a83cd3b9f18586cddf1c0b69">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-android-4.1.4_35c85e275ea55d196615ebccbcfc1330755c5860/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2/a4c8ce09be6ec90479be74290e381de4288c9569/jxmpp-core-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/jxmpp-core-0.4.2_715ee7153325d3c4aa089232f56d17fdb957b6e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.4/e192acc0380ac43bcf54b3b41e3c160dad8f4023/smack-core-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e192acc0380ac43bcf54b3b41e3c160dad8f4023">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-core-4.1.4_37d61f5b3a8d01cc93e7f6c2f9ebead0d6da402a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.4/4b9978d465ae26b2c191ebb672089427992e0dc3/smack-extensions-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4b9978d465ae26b2c191ebb672089427992e0dc3">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-extensions-4.1.4_171f4074e1d92106214feb2efa2f3fe196c3387d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/Android-SDK-AS/SDK/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_ffe86755d8be8e11adbbabf172cf6b5ca3dc25f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.4/f6d75c32b22e447e6b99009689f1c940d38272e2/smack-sasl-provided-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f6d75c32b22e447e6b99009689f1c940d38272e2">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-sasl-provided-4.1.4_ede844c4d6c04012facf70a2cb9b9c720aec66cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.4/d0309c1cd0365a84a49b935305372f2f1acda516/smack-resolver-minidns-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d0309c1cd0365a84a49b935305372f2f1acda516">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-resolver-minidns-4.1.4_f4fc100d011f4c189b690c04a6b6b8a482c06c16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2/4aa590f2a44d49444dcd3bb082017bf0b46f2ff7/jxmpp-util-cache-0.4.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/jxmpp-util-cache-0.4.2_2215f0069cc4c735e09c829ec2eb5ad7b7da55b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_b1504ae389e06d5520e2781bf0f3e270a1295578/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_4237e786f4d0bbb63f33228a239aa4a721a4cc8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.4/36af87ca593fe82cae6591a4d72a321581130dc4/smack-im-4.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="36af87ca593fe82cae6591a4d72a321581130dc4">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/smack-im-4.1.4_9d38e7f6939eb34ca599d04c1af98e6083824265/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/devendramac/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/home/devendramac/AndroidStudioProjects/XMPPClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/minidns-0.1.7_3783cdc9f6af9413a3beb5575deea5743ec70391/classes.dex" />
+    </item>
+
+</items>
