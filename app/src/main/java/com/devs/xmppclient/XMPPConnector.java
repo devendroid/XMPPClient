@@ -34,7 +34,7 @@ import java.util.List;
 public class XMPPConnector {
 
     private static final String TAG = "XMPPConnector";
-    private static final String SERVER_ADDRESS = "globalsedan.com";//"nimbuzz.com";
+    private static final String SERVER_ADDRESS = "example.com";//"nimbuzz.com";
     private static final boolean DEBUGGABLE = true;
     public static final String ACTION_SEND = "com.it.action_send";
 
