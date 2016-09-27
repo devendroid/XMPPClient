@@ -3,7 +3,7 @@
 ### XMPPClient 
 * Just use as a sample to initiate a XMPP client.
 * You will need a XMPP server setup (local/server) to connect with this.
-* it will help you to initiate connections and to test send/receive messages between two clients.
+* It will help you to initiate connection and to test send/receive messages between two clients.
 
 ### CREDITS
 * [gson](https://github.com/google/gson)
