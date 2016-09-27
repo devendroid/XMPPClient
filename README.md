@@ -11,7 +11,6 @@
 
 ### License
 ```
-   Copyright (C) 2016 Amit Shekhar
    Copyright (C) 2016 Deven
 
    Licensed under the Apache License, Version 2.0 (the "License");
