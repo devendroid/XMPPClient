@@ -44,7 +44,7 @@ public class XMPPConnector {
     private static XMPPTCPConnection connection;
     private static XMPPConnector instance = null;
     public static boolean connected = false;
-    public boolean loggedin = false;
+    private boolean loggedin = false;
 
     private boolean chatCreated = false;
     private org.jivesoftware.smack.chat.Chat Mychat;
